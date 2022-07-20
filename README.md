@@ -1,4 +1,4 @@
-Interested in physics, math, deep-learning & a lot of other things.
+Curently working at NERD (Nintendo European Research & Development). Interested in physics, math, deep-learning & a lot of other things.
 
 <!---
 AntoinePlumerault/AntoinePlumerault is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
